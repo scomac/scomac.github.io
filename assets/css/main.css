@@ -43,5 +43,6 @@ ul#details {
 div#container-foia .p {
 	size: 10px !important;
 	text-align: center !important;
+	margin-top: -35px !important;
 }
 
