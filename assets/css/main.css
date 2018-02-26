@@ -21,6 +21,13 @@ div#images {
 div#contact {
 	background: #777;
 	text-align: center;
+	color: white;
+}
+
+ul#details {
+	text-align: center;
+	color: white;
+	list-style: none;
 }
 
 .row {
@@ -32,6 +39,3 @@ div#contact {
 	text-align: center;
 }
 
-ul#details {
-	list-style: none;
-}
