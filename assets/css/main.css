@@ -41,7 +41,7 @@ ul#details {
 }
 
 div#container-foia .p {
-	size: 10px;
-	text-align: center;
+	size: 10px !important;
+	text-align: center !important;
 }
 
