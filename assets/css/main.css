@@ -2,11 +2,16 @@ body {
 	background-color: white !important;
 }
 
-.banner-content {
-	color: red;
-	position: absolute;
+div#banner {
+	background-color: red;
+	position: fixed;
 	width: 100%;
 	z-index: 2000;
+}
+
+div#banner-content {
+	text-align: center;
+	color: white;
 }
 
 .row {
