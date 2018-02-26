@@ -14,7 +14,8 @@ div#banner-content {
 	color: white;
 }
 
-div .team {
+.team {
+	text-align: center;
 	background: #FFFDFD;
 	margin-bottom: -20px;
 }
@@ -36,7 +37,4 @@ ul#details {
 	margin-right: 50px !important;
 }
 
-.team {
-	text-align: center;
-}
 
