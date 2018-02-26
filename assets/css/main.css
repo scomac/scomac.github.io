@@ -14,12 +14,13 @@ div#banner-content {
 	color: white;
 }
 
-div#images {
-	background: #DDD;
+div .team {
+	background: #FFFDFD;
+	margin-bottom: -20px;
 }
 
 div#contact {
-	background: #777;
+	background: #B7AEAE;
 	text-align: center;
 	color: white;
 }
