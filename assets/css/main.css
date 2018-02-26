@@ -16,12 +16,17 @@ div#banner-content {
 
 div#team {
 	text-align: center;
-	background-color : #FFFDFD;
+	background-color : #9F9090;
 	margin-bottom: -20px;
 }
 
+.row {
+	margin-left: 50px !important;
+	margin-right: 50px !important;
+}
+
 div#contact {
-	background: #B7AEAE;
+	background: #4E276E;
 	text-align: center;
 	color: white;
 }
@@ -31,10 +36,4 @@ ul#details {
 	color: white;
 	list-style: none;
 }
-
-.row {
-	margin-left: 50px !important;
-	margin-right: 50px !important;
-}
-
 
