@@ -2,6 +2,13 @@ body {
 	background-color: white !important;
 }
 
+.banner-content {
+	color: red;
+	position: absolute;
+	width: 100%;
+	z-index: 2000;
+}
+
 .row {
 	margin-left: 50px !important;
 	margin-right: 50px !important;
