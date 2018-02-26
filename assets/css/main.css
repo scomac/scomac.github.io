@@ -31,3 +31,7 @@ div#contact {
 .team {
 	text-align: center;
 }
+
+ul#details {
+	list-style: none;
+}
