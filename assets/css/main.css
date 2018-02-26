@@ -2,14 +2,14 @@ body {
 	background-color: white !important;
 }
 
-.banner {
+div#banner {
 	background-color: red;
 	position: fixed;
 	width: 100%;
 	z-index: 2000;
 }
 
-.banner-content {
+div#banner-content {
 	text-align: center;
 	color: white;
 }
