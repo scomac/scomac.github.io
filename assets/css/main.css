@@ -19,6 +19,10 @@ div#team {
 	background-color: white;
 }
 
+div#team h4 {
+	color: white;
+}
+
 .row {
 	margin-left: 50px !important;
 	margin-right: 50px !important;
