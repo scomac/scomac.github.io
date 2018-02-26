@@ -14,6 +14,14 @@ div#banner-content {
 	color: white;
 }
 
+div#images {
+	background: #DDD;
+}
+
+div#contact {
+	background: #777;
+}
+
 .row {
 	margin-left: 50px !important;
 	margin-right: 50px !important;
