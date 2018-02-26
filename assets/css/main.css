@@ -20,6 +20,7 @@ div#images {
 
 div#contact {
 	background: #777;
+	text-align: center;
 }
 
 .row {
@@ -28,9 +29,5 @@ div#contact {
 }
 
 .team {
-	text-align: center;
-}
-
-.contact {
 	text-align: center;
 }
